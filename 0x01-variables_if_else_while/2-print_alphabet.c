@@ -8,6 +8,7 @@
 int main(void)
 {
 	int x;
+
 	x = printf("abcdefghijklmnopqrstuvwxyz");
 	putchar(x);
 	return (0);
