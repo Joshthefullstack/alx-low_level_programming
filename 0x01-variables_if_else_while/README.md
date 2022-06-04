@@ -1,1 +1,1 @@
-uppercase
+alphabets without q and e
