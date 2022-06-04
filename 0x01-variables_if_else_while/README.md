@@ -1,1 +1,1 @@
-alphabets without q and e
+base 10
