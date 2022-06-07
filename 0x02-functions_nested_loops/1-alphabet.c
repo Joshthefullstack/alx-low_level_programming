@@ -1,19 +1,17 @@
+#include "main.h"
 #include <stdio.h>
-
-
 /**
- * main - check the code
+ * print_alphabet - check the code
  *
  * Return: Always 0.
  */
-int alphabets(void)
+void print_alphabet(void)
 {
-	char word[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
-	for (i = 0; i < 26; i++)
+	for (i = 97; i <= 122; i++)
 	{
-		putchar(word[i]);
+		putchar(i);
 	}
 	putchar('\n');
 }
