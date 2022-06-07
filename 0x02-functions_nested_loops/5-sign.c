@@ -21,10 +21,10 @@ int print_sign(int n)
 		putchar(45);
 		return (-1);
 	}
-	else 
+	else
 	{
 		putchar(48);
 		return (0);
 	}
-	putchar('\n');
+	_putchar('\n');
 }
