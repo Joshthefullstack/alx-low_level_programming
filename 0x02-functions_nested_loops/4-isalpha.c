@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-#include <ctype>
+#include <ctype.h>
 /**
  * _isalpha - Shows 1 if the input is a
  * letter Another cases, shows 0
@@ -19,5 +19,5 @@ int _isalpha(int c)
 	{
 		return (0);
 	}
-	putchar ('\n')
+	putchar ('\n');
 }
