@@ -3,7 +3,7 @@
 
 /**
  * _strcpy - copies the string pointed to by the src
- * including the terminating null byte, to the 
+ * including the terminating null byte, to the
  * buffer pointed by the dest.
  * @dest: destination
  * @src: source.
@@ -20,5 +20,5 @@ char *_strcpy(char *dest, char *src)
 			break;
 		count++;
 	}
-	return(dest);
+	return (dest);
 }
