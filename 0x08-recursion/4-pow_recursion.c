@@ -2,8 +2,8 @@
 
 /**
  * int _pow_recursion - return the value of x raised to the power of y
- * @x - int
- * @y - power being raised to
+ * @x - base.
+ * @y - exponent
  * Return: returns value of x raised to the power of y
  */
 int _pow_recursion(int x, int y)
