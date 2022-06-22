@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * a function that prints the reverse of a string
- * @*s = string
+ * _print_rev_recursion - prints the reverse of a string
+ * @*s - string
  * Return: no return
  */
 void _print_rev_recursion(char *s)
