@@ -1,0 +1,9 @@
+#include "main.h"
+
+/**
+ * changes the char c to an uppercase character
+ * @c: character
+ * Return: 0
+ */
+int _isupper(int c){
+}
