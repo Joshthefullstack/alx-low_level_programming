@@ -5,7 +5,7 @@
  * @argc: argument count.
  * @argv: argument vector.
  *
- * Return: always o.
+ * Return: always 0.
  */
 int mai(int argc, char *argv[])
 {
